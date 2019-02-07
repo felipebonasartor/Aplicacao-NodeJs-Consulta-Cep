@@ -1,5 +1,5 @@
 # nodejs_cep_rest_soap
-Api de teste construída em Node.Js para retornar CEP's Brasileiros com serviços REST. SOAP e com NPM.
+Api de teste construída em Node.Js para retornar CEP's Brasileiros com serviços REST, SOAP e NPM.
 
 Constitui em três métodos get para retornar o endereço pelo CEP informado.
 
