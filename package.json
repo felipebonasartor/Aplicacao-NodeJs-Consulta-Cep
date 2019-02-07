@@ -1,0 +1,27 @@
+{
+  "name": "nodecep",
+  "version": "1.0.0",
+  "description": "Uma Api de retorno de endereço pelo CEP via módulo do NPM (Busca-cep), e servidores VIACEP e CORREIOS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cep",
+    "endereço",
+    "busca cep"
+  ],
+  "author": "Felipe Sartor",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.18.3",
+    "busca-cep": "^0.5.0",
+    "consign": "0.1.6",
+    "express": "4.16.4",
+    "express-validator": "^5.3.1",
+    "request-promise": "^4.2.2",
+    "restify": "^7.6.0",
+    "restify-clients": "^2.6.4",
+    "soap": "^0.25.0"
+  }
+}
